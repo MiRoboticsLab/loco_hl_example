@@ -1,2 +1,2 @@
 # Example Code of High-Level Interface of Locomotion Control
-More details refer to the [Developer Guide of CyberDog](https://github.com/MiRoboticsLab).
+More details refer to the document [User Interface of CyberDog Locomotion Module](https://miroboticslab.github.io/blogs/#/en/cyberdog_loco_en).
